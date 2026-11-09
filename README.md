@@ -20,7 +20,7 @@ Built with Kotlin and Jetpack Compose. The downloading itself is done by [yt-dlp
 
 ## Download the app
 
-**[Download the APK from Google Drive](YOUR_GOOGLE_DRIVE_LINK)**
+**[Download the APK from Google Drive](https://drive.google.com/file/d/1oHlrb_e6e9xd6d0-E-fb5lH8A_Bltm0r/view?usp=drive_link)**
 
 ### How to install
 
